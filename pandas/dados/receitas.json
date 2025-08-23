@@ -1,0 +1,85 @@
+{
+    "receitas": [
+        {
+            "titulo": "Bolo de Chocolate",
+            "tempo_preparo": "45 minutos",
+            "porcoes": 8,
+            "ingredientes": [
+                {
+                    "ingrediente": "Farinha de Trigo",
+                    "quantidade": "2 xícaras"
+                },
+                {
+                    "ingrediente": "Açúcar",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "ingrediente": "Ovos",
+                    "quantidade": "3 unidades"
+                },
+                {
+                    "ingrediente": "Leite",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "ingrediente": "Manteiga",
+                    "quantidade": "1/2 xícara"
+                }
+            ]
+        },
+        {
+            "titulo": "Salada Caesar",
+            "tempo_preparo": "20 minutos",
+            "porcoes": 4,
+            "ingredientes": [
+                {
+                    "ingrediente": "Alface Romana",
+                    "quantidade": "1 unidade"
+                },
+                {
+                    "ingrediente": "Frango Grelhado",
+                    "quantidade": "200 g"
+                },
+                {
+                    "ingrediente": "Croutons",
+                    "quantidade": "1 xícara"
+                },
+                {
+                    "ingrediente": "Molho Caesar",
+                    "quantidade": "1/2 xícara"
+                },
+                {
+                    "ingrediente": "Queijo Parmesão",
+                    "quantidade": "1/4 xícara"
+                }
+            ]
+        },
+        {
+            "titulo": "Lasanha de Carne",
+            "tempo_preparo": "60 minutos",
+            "porcoes": 6,
+            "ingredientes": [
+                {
+                    "ingrediente": "Massa de Lasanha",
+                    "quantidade": "500 g"
+                },
+                {
+                    "ingrediente": "Carne Moída",
+                    "quantidade": "400 g"
+                },
+                {
+                    "ingrediente": "Molho de Tomate",
+                    "quantidade": "2 xícaras"
+                },
+                {
+                    "ingrediente": "Queijo Mussarela",
+                    "quantidade": "300 g"
+                },
+                {
+                    "ingrediente": "Presunto",
+                    "quantidade": "200 g"
+                }
+            ]
+        }
+    ]
+}
